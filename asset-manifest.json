@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ipod-Using-Reactjs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Ipod-Using-Reactjs/static/js/main.144fc916.chunk.js",
+    "main.js.map": "/Ipod-Using-Reactjs/static/js/main.144fc916.chunk.js.map",
+    "runtime-main.js": "/Ipod-Using-Reactjs/static/js/runtime-main.7c553f9b.js",
+    "runtime-main.js.map": "/Ipod-Using-Reactjs/static/js/runtime-main.7c553f9b.js.map",
+    "static/css/2.43079d8c.chunk.css": "/Ipod-Using-Reactjs/static/css/2.43079d8c.chunk.css",
+    "static/js/2.ece0a88d.chunk.js": "/Ipod-Using-Reactjs/static/js/2.ece0a88d.chunk.js",
+    "static/js/2.ece0a88d.chunk.js.map": "/Ipod-Using-Reactjs/static/js/2.ece0a88d.chunk.js.map",
+    "index.html": "/Ipod-Using-Reactjs/index.html",
+    "precache-manifest.3c0aba3411b29a955f1d36fb1530ab4e.js": "/Ipod-Using-Reactjs/precache-manifest.3c0aba3411b29a955f1d36fb1530ab4e.js",
+    "service-worker.js": "/Ipod-Using-Reactjs/service-worker.js",
+    "static/css/2.43079d8c.chunk.css.map": "/Ipod-Using-Reactjs/static/css/2.43079d8c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Ipod-Using-Reactjs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ece0a88d.chunk.js.LICENSE.txt": "/Ipod-Using-Reactjs/static/js/2.ece0a88d.chunk.js.LICENSE.txt",
+    "static/media/Senorita.mp3": "/Ipod-Using-Reactjs/static/media/Senorita.9ba16188.mp3",
+    "static/media/kartik.jpg": "/Ipod-Using-Reactjs/static/media/kartik.cd3b17af.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c553f9b.js",
+    "static/css/2.43079d8c.chunk.css",
+    "static/js/2.ece0a88d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.144fc916.chunk.js"
+  ]
+}
